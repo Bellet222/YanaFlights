@@ -1,5 +1,5 @@
 # YanaFlights
-Проект для практики работы с API Aviasales
+Проект для практики работы с API Aviasales на React
 
 
 Реализована регистрация\авторизация через Firebase
@@ -11,4 +11,8 @@
 Для запуска: 
 
 npm i
+
 npm start
+
+
+
